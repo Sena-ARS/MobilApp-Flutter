@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944685469958",
+    "project_id": "uyg-odev",
+    "storage_bucket": "uyg-odev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944685469958:android:7211d579258cf2ad7ace87",
+        "android_client_info": {
+          "package_name": "com.example.kitap_uyg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASDhdK1Uplm8Wb3a5IG12XA81g7Msznao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
